@@ -1,2 +1,2 @@
-# Gesti-n-Pacientes
+# Gestion-Pacientes
 Sistema de gestión de pacientes de un laboratorio
